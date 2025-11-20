@@ -1,0 +1,12 @@
+{
+  "0x6ADb2E268de2aA1aBF6578E4a8119b960E02928F": {
+    "contracts": [
+      {
+        "address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
+        "label": "rugpull_candidate",
+        "risk_score": 100,
+        "risk_level": "High"
+      }
+    ]
+  }
+}

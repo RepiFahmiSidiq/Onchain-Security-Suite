@@ -1,0 +1,246 @@
+{
+  "0x2baaa41d155ad8a4126184950b31f50a1513ce25": {
+    "contracts": [
+      {
+        "address": "0x8c9b504192c06cffa6e2cf67e1b656a3c870bb2c",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x18a9c80c598dd42ee682a4fd03bc7f725e78a7d1",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0xcacbe94ffa7c5dd10799bd5ae1860abe8ff083bf",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x70cc3386d0bec897507177700dad6d674032b1bd",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x0868781a6eae026d126516ac5ebca41201ed0146",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0xd5bd3da7228bfa951eccf86af1d1bfd9fe0ff31b",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x04a734a6c3e415fff3149f0cb5f4719554974cc2",
+        "label": "suspicious",
+        "risk_score": 55,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0xca13c064b7a5f3a8c763312a883499a10b2614cc",
+        "label": "suspicious",
+        "risk_score": 35,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0x43d0473a0bfb65f39142aef13a640d646e435991",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0xc25096b54cd850ee8a849e8bdc964ec412175406",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x33cabde4527fcb4bbb1ea9909bf93d41c98cfa3c",
+        "label": "suspicious",
+        "risk_score": 35,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0x633159bf4d33106697de4601a1870c973e74be02",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x84a3076031fcdf12e95514149408326e303a9f4f",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0xe07533c961032a182fa46f9b8fa9a03dc9b5d7ef",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x28a5da04a94f0501a6f77df8f8a9529d27b92744",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x40f941e48a552bf496b154af6bf55725f18d77c3",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+        "label": "suspicious",
+        "risk_score": 35,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0xfe3c4f1ec9f5df918d42ef7ed3fba81cc0086c5f",
+        "label": "suspicious",
+        "risk_score": 55,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0x07d6a3b7a345576a22b63470c1cbdf133179257c",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x5dee86b9345a2b4631d087fac91e1609a1c9d9d7",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0xceaefc381e3268ba7f1ec92a7ad637857ee56210",
+        "label": "safe",
+        "risk_score": 8,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x4ca5348aa2ff1e9e854f3a22dc51aa2c70151408",
+        "label": "suspicious",
+        "risk_score": 55,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0xe81eee5da165fa6863bbc82df66e62d18625d592",
+        "label": "suspicious",
+        "risk_score": 55,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0x7492cdbc126ffc05c32249a470982173870e95b0",
+        "label": "suspicious",
+        "risk_score": 40,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0x46209e15a14f602897e6d72da858a6ad806403f1",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x3b99859be43d543960803c09a0247106e82e74ee",
+        "label": "suspicious",
+        "risk_score": 40,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0x9e39424eab9161cc3399d886b1428cba71586cb8",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x7f4eef331348b99850f25dd4f2ab8336a7276311",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x0e808507e1692876ae6bebc35da3e13801e63bfa",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x592349f7dedb2b75f9d4f194d4b7c16d82e507dc",
+        "label": "safe",
+        "risk_score": 15,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x54f44ea3d2e7aa0ac089c4d8f7c93c27844057bf",
+        "label": "safe",
+        "risk_score": 15,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x9921810c710e7c3f7a7c6831e30929f19537a545",
+        "label": "suspicious",
+        "risk_score": 40,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0x3e532e6222afe9bcf02dcb87216802c75d5113ae",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x4e6ccb1da3c7844887f9a5af4e8450d9fd90317a",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0xcf649d9da4d1362c4daea67573430bd6f945e570",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x730674363e2de4e30489dc37f0cd12abdcfc6e39",
+        "label": "suspicious",
+        "risk_score": 40,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0xdebb91ab3e473025bb8ce278c02361a3c4f13124",
+        "label": "suspicious",
+        "risk_score": 55,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0xdbf90434df0b98219f87d112f37d74b1d90758c7",
+        "label": "safe",
+        "risk_score": 0,
+        "risk_level": "Low"
+      },
+      {
+        "address": "0x1d847fb6e04437151736a53f09b6e49713a52aad",
+        "label": "suspicious",
+        "risk_score": 40,
+        "risk_level": "Medium"
+      },
+      {
+        "address": "0xd18e2a433664f9459cccbd4bee0057a7bc57e707",
+        "label": "suspicious",
+        "risk_score": 40,
+        "risk_level": "Medium"
+      }
+    ]
+  }
+}

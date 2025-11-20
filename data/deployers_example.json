@@ -1,0 +1,46 @@
+{
+  "0xDEADDEADDEADDEADDEADDEADDEADDEAD000001": {
+    "contracts": [
+      {
+        "address": "0xAAA111",
+        "label": "safe"
+      },
+      {
+        "address": "0xAAA222",
+        "label": "safe"
+      },
+      {
+        "address": "0xAAA333",
+        "label": "suspicious"
+      }
+    ]
+  },
+  "0xSCAMSCAMSCAMSCAMSCAMSCAMSCAMSCAM000002": {
+    "contracts": [
+      {
+        "address": "0xBBB111",
+        "label": "rugpull_candidate"
+      },
+      {
+        "address": "0xBBB222",
+        "label": "rugpull_candidate"
+      }
+    ]
+  },
+  "0xMIXEDMIXEDMIXEDMIXEDMIXEDMIXED000003": {
+    "contracts": [
+      {
+        "address": "0xCCC111",
+        "label": "safe"
+      },
+      {
+        "address": "0xCCC222",
+        "label": "suspicious"
+      },
+      {
+        "address": "0xCCC333",
+        "label": "rugpull_candidate"
+      }
+    ]
+  }
+}
